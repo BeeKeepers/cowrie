@@ -4,6 +4,12 @@ Cowrie is a medium interaction SSH honeypot designed to log brute force attacks 
 
 Cowrie is directly based on [Kippo](http://github.com/desaster/kippo/) by Upi Tamminen (desaster).
 
+## SmartHive project fork
+
+### New features
+
+- Custom filesystem
+
 ## Features
 Some interesting features:
 * Fake filesystem with the ability to add/remove files. A full fake filesystem resembling a Debian 5.0 installation is included
