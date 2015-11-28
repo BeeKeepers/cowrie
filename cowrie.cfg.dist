@@ -37,7 +37,7 @@
 # environment.
 #
 # (default: svr04)
-hostname = svr04
+hostname = CyBCServer
 
 # Directory where to save log files in.
 #
@@ -176,7 +176,7 @@ sftp_enabled = true
 # SSH-2.0-OpenSSH_5.9
 #
 # (default: "SSH-2.0-SSH-2.0-OpenSSH_6.0p1 Debian-4+deb7u2")
-ssh_version_string = SSH-2.0-OpenSSH_6.0p1 Debian-4+deb7u2
+ssh_version_string = SSH-2.0-OpenSSH_7.0p1 Debian-4+deb7u2
 
 # Banner file to be displayed before the first login attempt.
 #
